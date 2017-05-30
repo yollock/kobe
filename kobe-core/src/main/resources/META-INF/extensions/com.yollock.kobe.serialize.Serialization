@@ -1,0 +1,2 @@
+fastjson=com.yollock.kobe.serialize.FastJsonSerialization
+hessian2=com.yollock.kobe.serialize.Hessian2Serialization
